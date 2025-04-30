@@ -11,4 +11,26 @@ entries:
     urls:
     - swap-commerce-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-30T17:20:15.133681+05:30"
+  security:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-04-30T17:46:46.531284+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 07698ac338895b31071129f376fc09b57e1bada735d46dd02fe83bd7f31c0356
+    name: security
+    type: application
+    urls:
+    - security-1.0.0.tgz
+    version: 1.0.0
+  protect:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-04-30T17:45:58.911168+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 6b939f0c472c9c8be235b70db8b9c9c4632f38eda3b08af9591494fb7d9f0c75
+    name: protect
+    type: application
+    urls:
+    - protect-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-04-30T17:45:58.910032+05:30"
