@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  protect:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-05-01T15:58:00.309296+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f1602614347bdb17fd6c1b9903a5cefcd04d2c9dfdcf4f1d55dfd72868c4c875
+    name: protect
+    type: application
+    urls:
+    - protect-1.2.0.tgz
+    version: 1.2.0
+generated: "2025-05-01T15:58:00.30827+05:30"
