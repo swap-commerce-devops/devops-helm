@@ -22,4 +22,14 @@ entries:
     urls:
     - security-1.1.0.tgz
     version: 1.1.0
-generated: "2025-05-01T15:58:00.30827+05:30"
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-05-07T10:52:47.577151+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 892cd4cad279800cd360bd55545870ba8f3dfc8f92fba08cb8a58526d2af2018
+    name: security
+    type: application
+    urls:
+    - security-1.2.0.tgz
+    version: 1.2.0    
+generated: "2025-05-07T10:52:47.576289+05:30"
